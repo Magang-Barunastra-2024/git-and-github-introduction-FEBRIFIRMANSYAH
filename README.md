@@ -3,7 +3,7 @@
 | Febri Firmansyah   | ELC | Component Management |
 
 # Cara Menggunakan Git & GitHub
-
+![git-github](/images/git.png)
 ## A. Instalasi dan Konfigurasi Awal
 ### 1. Instal Git di PC/Laptop
     (https://git-scm.com/downloads)
